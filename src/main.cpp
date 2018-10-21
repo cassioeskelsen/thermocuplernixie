@@ -1,8 +1,4 @@
-//https://easytromlabs.com/arduino/arduino-lab-19-leitura-e-datalogger-de-temperatura-utilizando-um-termopar-tipo-k-e-o-max6675/
 #include "main.h"
-
-//ver https://provideyourown.com/2011/analogwrite-convert-pwm-to-voltage/
-//    https://www.instructables.com/id/Analog-Output-Convert-PWM-to-Voltage/
 
 void setup()
 {
